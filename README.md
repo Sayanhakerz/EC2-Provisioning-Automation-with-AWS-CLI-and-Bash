@@ -26,6 +26,7 @@ Project Files
 
 - "ec2.sh" — EC2 creation script.
 - Successful execution screenshot.
+- https://github.com/Sayanhakerz/EC2-Provisioning-Automation-with-AWS-CLI-and-Bash/blob/main/WhatsApp%20Image%202026-09-17%20at%2022.20.06(1).jpeg
 
 Learning Outcomes
 
